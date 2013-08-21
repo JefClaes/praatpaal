@@ -10,7 +10,7 @@ namespace PraatPaal
     {
         public HomeModule()
         {
-            Get["/"] = x => { return "Hello!"; };
+            Get["/"] = x => { return View["home.cshtml"]; };
         }
     }
 }

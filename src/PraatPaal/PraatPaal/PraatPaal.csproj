@@ -82,9 +82,20 @@
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="_Layout.cshtml" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Home.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OnsTeam.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AfspraakMaken.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Locatie.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

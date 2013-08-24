@@ -65,6 +65,7 @@
   <ItemGroup>
     <Content Include="Content\css\bootstrap.css" />
     <Content Include="Content\css\jumbotron-narrow.css" />
+    <Content Include="Content\favicon.ico" />
     <Content Include="Content\js\html5shiv.js" />
     <Content Include="Content\js\jquery.js" />
     <Content Include="Content\js\respond.min.js" />

@@ -68,6 +68,7 @@
     <Content Include="Content\js\html5shiv.js" />
     <Content Include="Content\js\jquery.js" />
     <Content Include="Content\js\respond.min.js" />
+    <Content Include="Content\logo.png" />
     <Content Include="Content\team\annemie.jpg" />
     <Content Include="Content\team\eva.png" />
     <Content Include="Content\team\kelly.JPG" />

@@ -68,6 +68,10 @@
     <Content Include="Content\js\html5shiv.js" />
     <Content Include="Content\js\jquery.js" />
     <Content Include="Content\js\respond.min.js" />
+    <Content Include="Content\team\annemie.jpg" />
+    <Content Include="Content\team\eva.png" />
+    <Content Include="Content\team\kelly.JPG" />
+    <Content Include="Content\team\nore.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -98,6 +102,7 @@
   <ItemGroup>
     <Content Include="Locatie.cshtml" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
   <ProjectExtensions>
